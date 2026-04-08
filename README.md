@@ -28,19 +28,17 @@ A curated collection of academic papers and research publications spanning handw
 
 ---
 
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║                    Research Focus Areas                            ║
-║                                                                    ║
-║  ✓ Handwriting Recognition & Analysis                              ║
-║  ✓ Writer Identification (Offline & Online)                        ║
-║  ✓ Document Analysis & Pattern Recognition                         ║
-║  ✓ LLM Agent Systems & Tool Protocols (SGD, MCP)                   ║
-║  ✓ Formal Verification & Process Calculus for AI                   ║
-║  ✓ AI Governance & Schema-Driven Agent Interoperability            ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
+```mermaid
+mindmap
+  root((Research Focus))
+    Handwriting & Documents
+      Handwriting Recognition & Analysis
+      Writer Identification - Offline & Online
+      Document Analysis & Pattern Recognition
+    LLM Agentic Systems
+      Agent Tool Protocols - SGD & MCP
+      Formal Verification & Process Calculus
+      AI Governance & Schema-Driven Interoperability
 ```
 
 ---
@@ -64,12 +62,16 @@ All papers are organized chronologically by publication year and venue:
 
 ---
 
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║                        Academic Archive                            ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
+```mermaid
+timeline
+    title Publication Timeline
+    2004 - 2006 : ICPR · IWFHR · DAS · ICDAR · IGS
+                : Handwriting Recognition
+                : Writer Identification
+                : Document Analysis
+    2026        : arXiv Preprints
+                : LLM Agent Systems
+                : Formal Verification
 ```
 
 ---

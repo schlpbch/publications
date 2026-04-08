@@ -1,6 +1,6 @@
 # Andreas Schlapbach's Publications
 
-A curated collection of peer-reviewed academic papers and research publications on handwriting recognition, writer identification, and document analysis using machine learning techniques.
+A curated collection of academic papers and research publications spanning handwriting recognition, document analysis, and LLM agentic systems.
 
 ---
 
@@ -12,6 +12,8 @@ A curated collection of peer-reviewed academic papers and research publications 
 - **journalPaperFinal.pdf** — Full journal publication with comprehensive findings
 - **offWriIdeVerGMM.pdf** — Offline writer identification using Gaussian Mixture Models
 - **onlineWIJournal.pdf** — Online writer identification methods and journal findings
+- **2602.18764v2.pdf** — The Convergence of SGD and MCP: A New Paradigm for Agentic Interoperability (arXiv, 2026)
+- **2603.24747v1.pdf** — Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach (arXiv, 2026)
 
 ### Conference Presentations
 
@@ -33,9 +35,10 @@ A curated collection of peer-reviewed academic papers and research publications 
 ║                                                                    ║
 ║  ✓ Handwriting Recognition & Analysis                              ║
 ║  ✓ Writer Identification (Offline & Online)                        ║
-║  ✓ Document Analysis                                               ║
-║  ✓ Machine Learning Methods (GMM, Statistical Models)              ║
-║  ✓ Pattern Recognition                                             ║
+║  ✓ Document Analysis & Pattern Recognition                         ║
+║  ✓ LLM Agent Systems & Tool Protocols (SGD, MCP)                   ║
+║  ✓ Formal Verification & Process Calculus for AI                   ║
+║  ✓ AI Governance & Schema-Driven Agent Interoperability            ║
 ║                                                                    ║
 ╚════════════════════════════════════════════════════════════════════╝
 ```
@@ -49,6 +52,7 @@ All papers are organized chronologically by publication year and venue:
 - **2004** — ICPR, IWFHR initial conferences
 - **2005** — DAS, ICDAR, IGS publications
 - **2006** — ICPR, IWFHR follow-up work
+- **2026** — arXiv preprints on LLM agentic systems
 
 ---
 
@@ -73,9 +77,10 @@ All papers are organized chronologically by publication year and venue:
 ## ℹ️ About
 
 This archive preserves research publications in:
+
 - **Handwriting recognition and analysis**
 - **Writer identification and verification**
-- **Document image analysis**
-- **Machine learning applications**
-
-Each paper represents peer-reviewed research accepted at major international conferences and journals in the pattern recognition and document analysis fields.
+- **Document image analysis and pattern recognition**
+- **LLM agent systems and tool protocols (SGD, MCP)**
+- **Formal verification of agentic systems**
+- **AI governance and schema-driven interoperability**

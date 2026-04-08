@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-This is a publications archive repository containing PDF files of academic papers on machine learning, handwriting recognition, and document analysis. The repository consists entirely of academic publications with no source code, build system, tests, or code documentation.
+This is a publications archive repository containing PDF files of academic papers spanning handwriting recognition, document analysis, and LLM agentic systems. The repository consists entirely of academic publications with no source code, build system, tests, or code documentation.
 
 ## Repository Contents
 
@@ -15,6 +15,8 @@ The repository stores PDF files of academic papers:
 - `onlineWIJournal.pdf` — Online writer identification journal
 - Conference papers: `das06.pdf`, `icdar05.pdf`, `icpr04.pdf`, `icpr06.pdf`, `igs05.pdf`, `iwfhr04.pdf`, `iwfhr06.pdf`
 - Presentation slides: `iwfhr06Slides.pdf`
+- `2602.18764v2.pdf` — The Convergence of SGD and MCP: A New Paradigm for Agentic Interoperability (arXiv, 2026)
+- `2603.24747v1.pdf` — Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach (arXiv, 2026)
 
 ## No Build, Test, or Development Commands
 

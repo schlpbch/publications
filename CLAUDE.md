@@ -15,6 +15,7 @@ The repository stores PDF files of academic papers:
 - `journalPaperFinal.pdf` — Journal publication
 - `offWriIdeVerGMM.pdf` — Offline writer identification paper
 - `onlineWIJournal.pdf` — Online writer identification journal
+- `LNCS-3872.pdf` — Writer Identification for Smart Meeting Rooms
 - Conference papers: `das06.pdf`, `icdar05.pdf`, `icpr04.pdf`, `icpr06.pdf`, `igs05.pdf`, `iwfhr04.pdf`, `iwfhr06.pdf`
 - Presentation slides: `iwfhr06Slides.pdf`
 - `2602.18764v2.pdf` — The Convergence of SGD and MCP: A New Paradigm for Agentic Interoperability (arXiv, 2026)

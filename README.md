@@ -18,8 +18,6 @@ This repository serves as a comprehensive archive of these contributions,
 spanning from foundational software composition theories to cutting-edge AI
 agent research.
 
----
-
 ## Publications
 
 1. [The Convergence of SGD and MCP: A New Paradigm for Agentic Interoperability](2602.18764v2.pdf)
@@ -27,17 +25,18 @@ agent research.
 2. [Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach](2603.24747v1.pdf)
    (arXiv, 2026)
 3. [Automatic Gender Detection – Combining On-Line and Off-Line Systems](ijprai2008.pdf)
-   (International Journal of Pattern Recognition and Artificial Intelligence, 2008)
+   (International Journal of Pattern Recognition and Artificial
+   Intelligence, 2008)
 4. [Automatic Estimation of the Readability of Handwritten Text](eusipco08.pdf)
    (EUSIPCO 2008)
 5. [Estimating the Readability of Handwritten Text – A Support Vector Regression Based Approach](icpr08.pdf)
    (ICPR 2008)
-6. [Machine Learning in Document Analysis and Recognition](MainLDAR.pdf)
-   (book draft, 2007)
+6. [Machine Learning in Document Analysis and Recognition](MainLDAR.pdf) (book
+   draft, 2007)
 7. [Off-line Writer Identification and Verification Using Gaussian Mixture Models](offWriIdeVerGMM.pdf)
    (book chapter)
-8. [Writer Identification for Smart Meeting Room Systems](LNCS-3872.pdf)
-   (DAS 2006, LNCS 3872, pp. 186–195)
+8. [Writer Identification for Smart Meeting Room Systems](LNCS-3872.pdf) (DAS
+   2006, LNCS 3872, pp. 186–195)
 9. [Off-line Writer Identification Using Gaussian Mixture Models](icpr06.pdf)
    (ICPR 2006)
 10. [Off-Line Writer Verification: A Comparison of a Hidden Markov Model (HMM) and a Gaussian Mixture Model (GMM) Based System](iwfhr06.pdf)
@@ -60,10 +59,8 @@ agent research.
 19. [Generic XMI Support for the MOOSE Reengineering Environment](Schl01a.pdf)
     (technical report, Universität Bern, June 2001)
 
----
-
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#aec6cf', 'primaryTextColor': '#333333', 'primaryBorderColor': '#999999', 'lineColor': '#999999', 'secondaryColor': '#b5ead7', 'tertiaryColor': '#ffdac1'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#aec6cf', 'primaryTextColor': '#eee', 'primaryBorderColor': '#eee', 'lineColor': '#999999', 'secondaryColor': '#b5ead7', 'tertiaryColor': '#ffdac1'}}}%%
 mindmap
   root((Research Focus))
     Software Composition & Reengineering
@@ -85,9 +82,7 @@ mindmap
       AI Governance & Schema-Driven Interoperability
 ```
 
----
-
-## 📋 Document Organization
+## Document Organization
 
 All papers are organized chronologically by publication year and venue:
 
@@ -99,21 +94,18 @@ All papers are organized chronologically by publication year and venue:
 - **2008** — EUSIPCO, ICPR readability estimation; IJPRAI gender detection
 - **2026** — arXiv preprints on LLM agentic systems
 
----
-
-## 🔍 How to Use This Repository
+## How to Use This Repository
 
 1. **Browse papers** — All PDFs are in the root directory
 2. **Review by topic** — Check the conference/journal name for specific focus
    areas
 3. **Access full texts** — Each PDF contains the complete paper and results
 
----
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#aec6cf', 'primaryTextColor': '#333333', 'primaryBorderColor': '#999999', 'lineColor': '#999999', 'secondaryColor': '#b5ead7', 'tertiaryColor': '#ffdac1'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#aec6cf', 'primaryTextColor': '#eee', 'primaryBorderColor': '#eee', 'lineColor': '#999999', 'secondaryColor': '#b5ead7', 'tertiaryColor': '#ffdac1'}}}%%
 timeline
-    title Publication Timeline
+
     2001        : Schl01a
                 : XMI/MOOSE Technical Report
     2002        : Schl03a
@@ -130,15 +122,13 @@ timeline
                 : Formal Verification
 ```
 
----
-
-## ℹ️ About
+## About
 
 This archive preserves research publications in:
 
 - **Software composition grounded in the π-calculus** (agents, forms, channels)
 - **Component-oriented programming and white-box/black-box reuse strategies**
-- **XMI/XML metadata interchange, metamodeling, and the MOF meta-meta-model**
+- **XMI/XML metadata interchange, meta-modeling, and the MOF meta-meta-model**
 - **Machine learning for document analysis** (Gaussian Mixture Models, Hidden
   Markov Models, Support Vector Machines)
 - **Handwriting recognition and analysis**

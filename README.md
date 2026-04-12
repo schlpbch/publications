@@ -22,13 +22,13 @@ agent research.
 
 ## Main Publications
 
-- **Schl01a.pdf** — Generic XMI Support for the MOOSE Reengineering Environment
+- [Generic XMI Support for the MOOSE Reengineering Environment](Schl01a.pdf)
   (technical report, Universität Bern, June 2001) — implements XMI (XML Metadata
   Interchange) support for MOOSE using the **Meta-Object Facility (MOF)** as a
   meta-meta-model: DTDs are generated directly from the MOF instance of the
   FAMIX metamodel, making the XMI layer generic across any FAMIX-compliant
   language model; supervised by Dr. Stéphane Ducasse and Sander Tichelaar
-- **Schl03a.pdf** — Enabling White-Box Reuse in a Pure Composition Language
+- [Enabling White-Box Reuse in a Pure Composition Language](Schl03a.pdf)
   (Diplomarbeit, Universität Bern, December 2002) — proposes a migration
   strategy from class inheritance (white-box) to component composition
   (black-box) using Piccola, a scripting language grounded in the
@@ -38,31 +38,35 @@ agent research.
 
 ### Core Research Papers
 
-- **MainLDAR.pdf** — Primary research paper on handwriting and document analysis
-- **journalPaperFinal.pdf** — Full journal publication with comprehensive
-  findings
-- **offWriIdeVerGMM.pdf** — Offline writer identification using Gaussian Mixture
-  Models
-- **onlineWIJournal.pdf** — Online writer identification methods and journal
-  findings
-- **2602.18764v2.pdf** — The Convergence of SGD and MCP: A New Paradigm for
-  Agentic Interoperability (arXiv, 2026)
-- **2603.24747v1.pdf** — Formal Semantics for Agentic Tool Protocols: A Process
-  Calculus Approach (arXiv, 2026)
+- [Machine Learning in Document Analysis and Recognition](MainLDAR.pdf)
+  (book draft, 2007)
+- [A Writer Identification and Verification System Using HMM Based Recognizers](journalPaperFinal.pdf)
+  (Pattern Analysis and Applications journal)
+- [Off-line Writer Identification and Verification Using Gaussian Mixture Models](offWriIdeVerGMM.pdf)
+  (book chapter)
+- [A Writer Identification System for On-line Whiteboard Data](onlineWIJournal.pdf)
+  (Pattern Recognition journal, 2006)
+- [The Convergence of SGD and MCP: A New Paradigm for Agentic Interoperability](2602.18764v2.pdf)
+  (arXiv, 2026)
+- [Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach](2603.24747v1.pdf)
+  (arXiv, 2026)
 
 ### Conference Presentations
 
-- **das06.pdf** — Document Analysis and Recognition conference (2006)
-- **icdar05.pdf** — International Conference on Document Analysis and
-  Recognition (2005)
-- **icpr04.pdf** — International Conference on Pattern Recognition (2004)
-- **icpr06.pdf** — International Conference on Pattern Recognition (2006)
-- **igs05.pdf** — International Graphonomics Society (2005)
-- **iwfhr04.pdf** — International Workshop on Frontiers in Handwriting
-  Recognition (2004)
-- **iwfhr06.pdf** — International Workshop on Frontiers in Handwriting
-  Recognition (2006)
-- **iwfhr06Slides.pdf** — IWFHR 2006 presentation slides
+- [Writer Identification for Smart Meeting Room Systems](das06.pdf) (DAS 2006)
+- [Improving Writer Identification by Means of Feature Selection and Extraction](icdar05.pdf)
+  (ICDAR 2005)
+- [Off-line Handwriting Identification Using HMM Based Recognizers](icpr04.pdf)
+  (ICPR 2004)
+- [Off-line Writer Identification Using Gaussian Mixture Models](icpr06.pdf)
+  (ICPR 2006)
+- [Writer Identification Using an HMM-Based Handwriting Recognition System: To Normalize the Input or Not?](igs05.pdf)
+  (IGS 2005)
+- [Using HMM Based Recognizers for Writer Identification and Verification](iwfhr04.pdf)
+  (IWFHR 2004)
+- [Off-Line Writer Verification: A Comparison of a Hidden Markov Model (HMM) and a Gaussian Mixture Model (GMM) Based System](iwfhr06.pdf)
+  (IWFHR 2006)
+- [IWFHR 2006 presentation slides](iwfhr06Slides.pdf)
 
 ---
 

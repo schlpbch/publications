@@ -4,11 +4,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-This is a publications archive repository containing PDF files of academic papers spanning handwriting recognition, document analysis, and LLM agentic systems. The repository consists entirely of academic publications with no source code, build system, tests, or code documentation.
+This is a publications archive repository containing PDF files of academic papers spanning software composition/reengineering, handwriting recognition, document analysis, and LLM agentic systems. The repository consists entirely of academic publications with no source code, build system, tests, or code documentation.
 
 ## Repository Contents
 
 The repository stores PDF files of academic papers:
+- `Schl01a.pdf` — Generic XMI Support for the MOOSE Reengineering Environment (technical report, Universität Bern, 2001); uses MOF (Meta-Object Facility) as a meta-meta-model to generically generate XMI/DTDs from the FAMIX metamodel
+- `Schl03a.pdf` — Enabling White-Box Reuse in a Pure Composition Language (Diplomarbeit/master's thesis, Universität Bern, 2002); built on Piccola, a π-calculus-based composition language using agents, forms and channels
 - `MainLDAR.pdf` — Main research paper
 - `journalPaperFinal.pdf` — Journal publication
 - `offWriIdeVerGMM.pdf` — Offline writer identification paper

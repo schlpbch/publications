@@ -20,57 +20,50 @@ agent research.
 
 ---
 
-## Main Publications
+## Publications
 
-- [Generic XMI Support for the MOOSE Reengineering Environment](Schl01a.pdf)
-  (technical report, Universität Bern, June 2001) — implements XMI (XML Metadata
-  Interchange) support for MOOSE using the **Meta-Object Facility (MOF)** as a
-  meta-meta-model: DTDs are generated directly from the MOF instance of the
-  FAMIX metamodel, making the XMI layer generic across any FAMIX-compliant
-  language model; supervised by Dr. Stéphane Ducasse and Sander Tichelaar
-- [Enabling White-Box Reuse in a Pure Composition Language](Schl03a.pdf)
-  (Diplomarbeit, Universität Bern, December 2002) — proposes a migration
-  strategy from class inheritance (white-box) to component composition
-  (black-box) using Piccola, a scripting language grounded in the
-  **π-calculus**; demonstrates how π-calculus-based channel communication and
-  agent composition replace inheritance hierarchies; supervised by Prof. Dr. O.
-  Nierstrasz and Nathanael Schärli
-
-### Core Research Papers
-
-- [Machine Learning in Document Analysis and Recognition](MainLDAR.pdf)
-  (book draft, 2007)
-- [A Writer Identification and Verification System Using HMM Based Recognizers](journalPaperFinal.pdf)
-  (Pattern Analysis and Applications journal)
-- [Off-line Writer Identification and Verification Using Gaussian Mixture Models](offWriIdeVerGMM.pdf)
-  (book chapter)
-- [A Writer Identification System for On-line Whiteboard Data](onlineWIJournal.pdf)
-  (Pattern Recognition journal, 2006)
-- [The Convergence of SGD and MCP: A New Paradigm for Agentic Interoperability](2602.18764v2.pdf)
-  (arXiv, 2026)
-- [Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach](2603.24747v1.pdf)
-  (arXiv, 2026)
-
-### Conference Presentations
-
-- [Writer Identification for Smart Meeting Room Systems](das06.pdf) (DAS 2006)
-- [Improving Writer Identification by Means of Feature Selection and Extraction](icdar05.pdf)
-  (ICDAR 2005)
-- [Off-line Handwriting Identification Using HMM Based Recognizers](icpr04.pdf)
-  (ICPR 2004)
-- [Off-line Writer Identification Using Gaussian Mixture Models](icpr06.pdf)
-  (ICPR 2006)
-- [Writer Identification Using an HMM-Based Handwriting Recognition System: To Normalize the Input or Not?](igs05.pdf)
-  (IGS 2005)
-- [Using HMM Based Recognizers for Writer Identification and Verification](iwfhr04.pdf)
-  (IWFHR 2004)
-- [Off-Line Writer Verification: A Comparison of a Hidden Markov Model (HMM) and a Gaussian Mixture Model (GMM) Based System](iwfhr06.pdf)
-  (IWFHR 2006)
-- [IWFHR 2006 presentation slides](iwfhr06Slides.pdf)
+1. [The Convergence of SGD and MCP: A New Paradigm for Agentic Interoperability](2602.18764v2.pdf)
+   (arXiv, 2026)
+2. [Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach](2603.24747v1.pdf)
+   (arXiv, 2026)
+3. [Automatic Gender Detection – Combining On-Line and Off-Line Systems](ijprai2008.pdf)
+   (International Journal of Pattern Recognition and Artificial Intelligence, 2008)
+4. [Automatic Estimation of the Readability of Handwritten Text](eusipco08.pdf)
+   (EUSIPCO 2008)
+5. [Estimating the Readability of Handwritten Text – A Support Vector Regression Based Approach](icpr08.pdf)
+   (ICPR 2008)
+6. [Machine Learning in Document Analysis and Recognition](MainLDAR.pdf)
+   (book draft, 2007)
+7. [Off-line Writer Identification and Verification Using Gaussian Mixture Models](offWriIdeVerGMM.pdf)
+   (book chapter)
+8. [Writer Identification for Smart Meeting Room Systems](das06.pdf)
+   (DAS 2006)
+9. [Off-line Writer Identification Using Gaussian Mixture Models](icpr06.pdf)
+   (ICPR 2006)
+10. [Off-Line Writer Verification: A Comparison of a Hidden Markov Model (HMM) and a Gaussian Mixture Model (GMM) Based System](iwfhr06.pdf)
+    (IWFHR 2006)
+11. [IWFHR 2006 presentation slides](iwfhr06Slides.pdf)
+12. [A Writer Identification System for On-line Whiteboard Data](onlineWIJournal.pdf)
+    (Pattern Recognition journal, 2006)
+13. [A Writer Identification and Verification System Using HMM Based Recognizers](journalPaperFinal.pdf)
+    (Pattern Analysis and Applications journal)
+14. [Improving Writer Identification by Means of Feature Selection and Extraction](icdar05.pdf)
+    (ICDAR 2005)
+15. [Writer Identification Using an HMM-Based Handwriting Recognition System: To Normalize the Input or Not?](igs05.pdf)
+    (IGS 2005)
+16. [Off-line Handwriting Identification Using HMM Based Recognizers](icpr04.pdf)
+    (ICPR 2004)
+17. [Using HMM Based Recognizers for Writer Identification and Verification](iwfhr04.pdf)
+    (IWFHR 2004)
+18. [Enabling White-Box Reuse in a Pure Composition Language](Schl03a.pdf)
+    (Diplomarbeit, Universität Bern, December 2002)
+19. [Generic XMI Support for the MOOSE Reengineering Environment](Schl01a.pdf)
+    (technical report, Universität Bern, June 2001)
 
 ---
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#aec6cf', 'primaryTextColor': '#333333', 'primaryBorderColor': '#999999', 'lineColor': '#999999', 'secondaryColor': '#b5ead7', 'tertiaryColor': '#ffdac1'}}}%%
 mindmap
   root((Research Focus))
     Software Composition & Reengineering
@@ -101,8 +94,9 @@ All papers are organized chronologically by publication year and venue:
 - **2001** — Technical report on XMI/MOOSE (Universität Bern)
 - **2002** — Diplomarbeit on white-box reuse in JPiccola (Universität Bern)
 - **2004** — ICPR, IWFHR initial conferences
-- **2005** — DAS, ICDAR, IGS publications
-- **2006** — ICPR, IWFHR follow-up work
+- **2005** — ICDAR, IGS publications
+- **2006** — DAS, ICPR, IWFHR follow-up work
+- **2008** — EUSIPCO, ICPR readability estimation; IJPRAI gender detection
 - **2026** — arXiv preprints on LLM agentic systems
 
 ---
@@ -117,6 +111,7 @@ All papers are organized chronologically by publication year and venue:
 ---
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#aec6cf', 'primaryTextColor': '#333333', 'primaryBorderColor': '#999999', 'lineColor': '#999999', 'secondaryColor': '#b5ead7', 'tertiaryColor': '#ffdac1'}}}%%
 timeline
     title Publication Timeline
     2001        : Schl01a
@@ -127,6 +122,9 @@ timeline
                 : Handwriting Recognition
                 : Writer Identification
                 : Document Analysis
+    2008        : EUSIPCO · ICPR · IJPRAI
+                : Readability Estimation
+                : Gender Detection
     2026        : arXiv Preprints
                 : LLM Agent Systems
                 : Formal Verification

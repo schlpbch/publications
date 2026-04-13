@@ -24,39 +24,42 @@ agent research.
    (arXiv, 2026)
 2. [Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach](2603.24747v1.pdf)
    (arXiv, 2026)
-3. [Automatic Gender Detection – Combining On-Line and Off-Line Systems](ijprai2008.pdf)
+3. Automatic Gender Detection Using on-Line and Off-Line Information
+   (Pattern Analysis and Applications, 14(1):87–92, 2011;
+   DOI: [10.1007/s10044-010-0178-6](https://doi.org/10.1007/s10044-010-0178-6))
+4. [Automatic Gender Detection – Combining On-Line and Off-Line Systems](ijprai2008.pdf)
    (International Journal of Pattern Recognition and Artificial
    Intelligence, 2008)
-4. [Automatic Estimation of the Readability of Handwritten Text](eusipco08.pdf)
+5. [Automatic Estimation of the Readability of Handwritten Text](eusipco08.pdf)
    (EUSIPCO 2008)
-5. [Estimating the Readability of Handwritten Text – A Support Vector Regression Based Approach](icpr08.pdf)
+6. [Estimating the Readability of Handwritten Text – A Support Vector Regression Based Approach](icpr08.pdf)
    (ICPR 2008)
-6. [Machine Learning in Document Analysis and Recognition](MainLDAR.pdf) (book
+7. [Machine Learning in Document Analysis and Recognition](MainLDAR.pdf) (book
    draft, 2007)
-7. [Off-line Writer Identification and Verification Using Gaussian Mixture Models](offWriIdeVerGMM.pdf)
+8. [Off-line Writer Identification and Verification Using Gaussian Mixture Models](offWriIdeVerGMM.pdf)
    (book chapter)
-8. [Writer Identification for Smart Meeting Room Systems](LNCS-3872.pdf) (DAS
+9. [Writer Identification for Smart Meeting Room Systems](LNCS-3872.pdf) (DAS
    2006, LNCS 3872, pp. 186–195)
-9. [Off-line Writer Identification Using Gaussian Mixture Models](icpr06.pdf)
-   (ICPR 2006)
-10. [Off-Line Writer Verification: A Comparison of a Hidden Markov Model (HMM) and a Gaussian Mixture Model (GMM) Based System](iwfhr06.pdf)
+10. [Off-line Writer Identification Using Gaussian Mixture Models](icpr06.pdf)
+    (ICPR 2006)
+11. [Off-Line Writer Verification: A Comparison of a Hidden Markov Model (HMM) and a Gaussian Mixture Model (GMM) Based System](iwfhr06.pdf)
     (IWFHR 2006)
-11. [IWFHR 2006 presentation slides](iwfhr06Slides.pdf)
-12. [A Writer Identification System for On-line Whiteboard Data](onlineWIJournal.pdf)
+12. [IWFHR 2006 presentation slides](iwfhr06Slides.pdf)
+13. [A Writer Identification System for On-line Whiteboard Data](onlineWIJournal.pdf)
     (Pattern Recognition journal, 2006)
-13. [A Writer Identification and Verification System Using HMM Based Recognizers](journalPaperFinal.pdf)
+14. [A Writer Identification and Verification System Using HMM Based Recognizers](journalPaperFinal.pdf)
     (Pattern Analysis and Applications journal)
-14. [Improving Writer Identification by Means of Feature Selection and Extraction](icdar05.pdf)
+15. [Improving Writer Identification by Means of Feature Selection and Extraction](icdar05.pdf)
     (ICDAR 2005)
-15. [Writer Identification Using an HMM-Based Handwriting Recognition System: To Normalize the Input or Not?](igs05.pdf)
+16. [Writer Identification Using an HMM-Based Handwriting Recognition System: To Normalize the Input or Not?](igs05.pdf)
     (IGS 2005)
-16. [Off-line Handwriting Identification Using HMM Based Recognizers](icpr04.pdf)
+17. [Off-line Handwriting Identification Using HMM Based Recognizers](icpr04.pdf)
     (ICPR 2004)
-17. [Using HMM Based Recognizers for Writer Identification and Verification](iwfhr04.pdf)
+18. [Using HMM Based Recognizers for Writer Identification and Verification](iwfhr04.pdf)
     (IWFHR 2004)
-18. [Enabling White-Box Reuse in a Pure Composition Language](Schl03a.pdf)
+19. [Enabling White-Box Reuse in a Pure Composition Language](Schl03a.pdf)
     (Diplomarbeit, Universität Bern, December 2002)
-19. [Generic XMI Support for the MOOSE Reengineering Environment](Schl01a.pdf)
+20. [Generic XMI Support for the MOOSE Reengineering Environment](Schl01a.pdf)
     (technical report, Universität Bern, June 2001)
 
 ```mermaid
@@ -92,6 +95,7 @@ All papers are organized chronologically by publication year and venue:
 - **2005** — ICDAR, IGS publications
 - **2006** — DAS, ICPR, IWFHR follow-up work
 - **2008** — EUSIPCO, ICPR readability estimation; IJPRAI gender detection
+- **2011** — Pattern Analysis and Applications gender detection journal paper
 - **2026** — arXiv preprints on LLM agentic systems
 
 ## How to Use This Repository
@@ -116,6 +120,8 @@ timeline
                 : Document Analysis
     2008        : EUSIPCO · ICPR · IJPRAI
                 : Readability Estimation
+                : Gender Detection
+    2011        : PAA
                 : Gender Detection
     2026        : arXiv Preprints
                 : LLM Agent Systems

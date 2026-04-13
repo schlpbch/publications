@@ -1,9 +1,9 @@
 # Andreas Schlapbach's Publications
 
-Welcome to the repository of Andreas Schlapbach's research publications. This
-collection encompasses a wide range of topics in software engineering, machine
-learning, and artificial intelligence, reflecting the evolution of research
-interests over the years.
+Welcome to the repository of my research publications. This collection
+encompasses a wide range of topics in software engineering, machine learning,
+and artificial intelligence, reflecting the evolution of research interests over
+the years.
 
 The early work explores two foundational ideas in software engineering: the
 **π-calculus** as a formal basis for component composition languages, and the
@@ -170,16 +170,18 @@ timeline
 
 ## About
 
-This archive preserves research publications in:
+This archive preserves research publications spanning:
 
-- **Software composition grounded in the π-calculus** (agents, forms, channels)
-- **Component-oriented programming and white-box/black-box reuse strategies**
-- **XMI/XML metadata interchange, meta-modeling, and the MOF meta-meta-model**
-- **Machine learning for document analysis** (Gaussian Mixture Models, Hidden
-  Markov Models, Support Vector Machines)
-- **Handwriting recognition and analysis**
-- **Writer identification and verification**
-- **Document image analysis and pattern recognition**
-- **LLM agent systems and tool protocols (SGD, MCP)**
-- **Formal verification of Agentic systems**
-- **AI governance and schema-driven interoperability**
+- **Software composition** grounded in the π-calculus (agents, forms, channels)
+  and component-oriented programming
+- **Meta-modeling** via XMI/XML metadata interchange and the MOF meta-meta-model
+- **Reuse strategies** including white-box and black-box approaches in
+  reengineering environments
+- **Machine learning** applied to document analysis using Gaussian Mixture
+  Models, Hidden Markov Models, and Support Vector Machines
+- **Handwriting recognition, analysis, and writer identification** (offline and
+  online)
+- **Document image analysis** and pattern recognition
+- **LLM agentic systems**, including tool protocols (SGD, MCP) and formal
+  verification
+- **AI governance** and schema-driven interoperability

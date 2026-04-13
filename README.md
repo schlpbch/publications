@@ -23,6 +23,9 @@ This repository serves as a comprehensive archive of these contributions,
 spanning from foundational software composition theories to cutting-edge AI
 agent research.
 
+If you're interested in connecting professionally, you can find me on
+[LinkedIn](https://www.linkedin.com/in/andreas-schlapbach/).
+
 ## Publications
 
 ### Preprints

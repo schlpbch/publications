@@ -53,16 +53,16 @@ agent research.
 
 ### Conference Papers
 
-10. [Automatic Estimation of the Readability of Handwritten Text](eusipco08.pdf)
+10. Automatic Estimation of the Readability of Handwritten Text
     (EUSIPCO 2008)
-11. [Estimating the Readability of Handwritten Text – A Support Vector Regression Based Approach](icpr08.pdf)
+11. Estimating the Readability of Handwritten Text – A Support Vector Regression Based Approach
     (ICPR 2008)
 12. Writer-Dependent Recognition of Handwritten Whiteboard Notes in Smart Meeting Room Environments
     (DAS 2008; DOI: [10.1109/DAS.2008.8](https://doi.org/10.1109/DAS.2008.8))
 13. Automatic Detection of Gender and Handedness from On-Line Handwriting
-    (2007; Marcus Liwicki, Andreas Schlapbach, Peter Loretan, Horst Bunke)
+    (2007)
 14. [Writer Identification for Smart Meeting Room Systems](LNCS-3872.pdf)
-    (DAS 2006, LNCS 3872, pp. 186–195)
+    (DAS 2006, LNCS 3872, pp. 186–195; also available as [author preprint](das06.pdf))
 15. [Off-line Writer Identification Using Gaussian Mixture Models](icpr06.pdf)
     (ICPR 2006)
 16. [Off-Line Writer Verification: A Comparison of a Hidden Markov Model (HMM) and a Gaussian Mixture Model (GMM) Based System](iwfhr06.pdf)
@@ -78,7 +78,8 @@ agent research.
 
 ### Theses & Technical Reports
 
-21. Writer Identification and Verification — see entry 3
+21. Writer Identification and Verification
+    (PhD thesis, Universität Bern, 2008 — published as book; see entry 3)
 22. [Enabling White-Box Reuse in a Pure Composition Language](Schl03a.pdf)
     (Diplomarbeit, Universität Bern, December 2002)
 23. [Generic XMI Support for the MOOSE Reengineering Environment](Schl01a.pdf)
@@ -120,7 +121,7 @@ All papers are organized chronologically by publication year and venue:
 - **2004** — ICPR, IWFHR initial conferences
 - **2005** — ICDAR, IGS publications
 - **2006** — DAS, ICPR, IWFHR follow-up work
-- **2007** — Book draft on machine learning in document analysis; gender/handedness detection
+- **2007** — Book draft on machine learning in document analysis; book chapter on GMM-based writer identification; gender/handedness detection
 - **2008** — PhD thesis book (IOS Press/DISKI); DAS whiteboard recognition; EUSIPCO, ICPR readability estimation; IJPRAI gender detection
 - **2011** — Pattern Analysis and Applications gender detection journal paper
 - **2026** — arXiv preprints on LLM agentic systems
@@ -131,7 +132,6 @@ All papers are organized chronologically by publication year and venue:
 2. **Review by topic** — Check the conference/journal name for specific focus
    areas
 3. **Access full texts** — Each PDF contains the complete paper and results
-
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#aec6cf', 'primaryTextColor': '#eee', 'primaryBorderColor': '#eee', 'lineColor': '#999999', 'secondaryColor': '#b5ead7', 'tertiaryColor': '#ffdac1'}}}%%
@@ -145,7 +145,10 @@ timeline
                 : Handwriting Recognition
                 : Writer Identification
                 : Document Analysis
-    2008        : EUSIPCO · ICPR · IJPRAI
+    2007        : Book draft · Book chapter
+                : Gender & Handedness Detection
+    2008        : PhD thesis (IOS Press) · DAS
+                : EUSIPCO · ICPR · IJPRAI
                 : Readability Estimation
                 : Gender Detection
     2011        : PAA

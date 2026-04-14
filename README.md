@@ -30,9 +30,9 @@ If you're interested in connecting professionally, you can find me on
 
 ### Preprints
 
-1. [The Convergence of SGD and MCP: A New Paradigm for Agentic Interoperability](preprints/2602.18764v2.pdf)
+1. [Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach](preprints/2603.24747v1.pdf)
    (arXiv, 2026)
-2. [Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach](preprints/2603.24747v1.pdf)
+2. [The Convergence of SGD and MCP: A New Paradigm for Agentic Interoperability](preprints/2602.18764v2.pdf)
    (arXiv, 2026)
 
 ### Books

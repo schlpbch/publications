@@ -68,7 +68,8 @@ If you're interested in connecting professionally, you can find me on
     (ICPR 2008)
 12. Writer-Dependent Recognition of Handwritten Whiteboard Notes in Smart
     Meeting Room Environments (DAS 2008; DOI:
-    [10.1109/DAS.2008.8](https://doi.org/10.1109/DAS.2008.8)) - co-author: *Samy Bengio*
+    [10.1109/DAS.2008.8](https://doi.org/10.1109/DAS.2008.8)) with co-author:
+    [Samy Bengio](https://bengio.abracadoudou.com/)
 13. Automatic Detection of Gender and Handedness from On-Line Handwriting (2007)
 14. [Writer Identification for Smart Meeting Room Systems](conference-papers/LNCS-3872.pdf)
     (DAS 2006, LNCS 3872, pp. 186–195; also available as

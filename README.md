@@ -59,7 +59,7 @@ If you're interested in connecting professionally, you can find me on
 ### Book Chapters
 
 9. [Off-line Writer Identification and Verification Using Gaussian Mixture Models](book-chapters/offWriIdeVerGMM.pdf)
-   (book chapter, 2007)
+   (Book, 2007)
 
 ### Conference Papers
 

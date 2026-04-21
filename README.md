@@ -160,7 +160,7 @@ timeline
                 : Handwriting Recognition
                 : Writer Identification
                 : Document Analysis
-    2007        : Book draft · Book chapter
+    2007        : Book Chapter
                 : Gender & Handedness Detection
     2008        : PhD thesis (IOS Press) · DAS
                 : EUSIPCO · ICPR · IJPRAI

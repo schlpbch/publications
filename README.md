@@ -34,7 +34,7 @@ If you're interested in connecting professionally, you can find me on
    (arXiv, 2026) - Submitted to [CONCUR 2026 (Int. Conf. on Concurrency Theory)](https://confest-2026.github.io/concur/call-for-papers)
 
 2. [The Convergence of SGD and MCP: A New Paradigm for Agentic Interoperability](preprints/2602.18764v2.pdf)
-   (arXiv, 2026) - Submitting to [EMPLP 2026 (Conf. on Empirical Methods in Natural Language Processing)](https://2026.emnlp.org)
+   (arXiv, 2026) - Submitting to [EMNLP 2026 (Conf. on Empirical Methods in Natural Language Processing)](https://2026.emnlp.org)
 
 ### Books
 

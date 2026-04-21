@@ -41,7 +41,7 @@ If you're interested in connecting professionally, you can find me on
 3. Writer Identification and Verification (PhD thesis, IOS Press, DISKI series,
    February 2008; ISBN: 978-1-58603-825-0)
 4. [Machine Learning in Document Analysis and Recognition](books/MainLDAR.pdf)
-   (book draft, 2007)
+   (Book, 2007)
 
 ### Journal Articles
 

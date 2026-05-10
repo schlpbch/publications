@@ -67,39 +67,43 @@ If you're interested in connecting professionally, you can find me on
     (EUSIPCO 2008)
 11. [Estimating the Readability of Handwritten Text – A Support Vector Regression Based Approach](conference-papers/icpr08.pdf)
     (ICPR 2008)
-12. Writer-Dependent Recognition of Handwritten Whiteboard Notes in Smart
-    Meeting Room Environments (DAS 2008; DOI:
-    [10.1109/DAS.2008.8](https://doi.org/10.1109/DAS.2008.8)) with co-author:
-    [Samy Bengio](https://bengio.abracadoudou.com/)
-13. Automatic Detection of Gender and Handedness from On-Line Handwriting (2007)
-14. [Writer Identification for Smart Meeting Room Systems](conference-papers/LNCS-3872.pdf)
+12. [Estimating the Readability of Handwritten Text](conference-papers/icfhr08.pdf)
+    (ICFHR 2008)
+13. [Writer-Dependent Recognition of Handwritten Whiteboard Notes in Smart Meeting Room Environments](conference-papers/das08.pdf)
+    (DAS 2008; DOI: [10.1109/DAS.2008.8](https://doi.org/10.1109/DAS.2008.8))
+    with co-authors: Marcus Liwicki and Horst Bunke
+14. [Fusing Asynchronous Feature Streams for On-line Writer Identification](conference-papers/icdar07.pdf)
+    (ICDAR 2007)
+15. [Automatic Detection of Gender and Handedness from On-Line Handwriting](conference-papers/igs07.pdf)
+    (IGS 2007) with co-authors: Marcus Liwicki, Peter Loretan, and Horst Bunke
+16. [Writer Identification for Smart Meeting Room Systems](conference-papers/LNCS-3872.pdf)
     (DAS 2006, LNCS 3872, pp. 186–195; also available as
     [author preprint](conference-papers/das06.pdf))
-15. [Off-line Writer Identification Using Gaussian Mixture Models](conference-papers/icpr06.pdf)
+17. [Off-line Writer Identification Using Gaussian Mixture Models](conference-papers/icpr06.pdf)
     (ICPR 2006)
-16. [Off-Line Writer Verification: A Comparison of a Hidden Markov Model (HMM) and a Gaussian Mixture Model (GMM) Based System](conference-papers/iwfhr06.pdf)
+18. [Off-Line Writer Verification: A Comparison of a Hidden Markov Model (HMM) and a Gaussian Mixture Model (GMM) Based System](conference-papers/iwfhr06.pdf)
     (IWFHR 2006)
-17. [Improving Writer Identification by Means of Feature Selection and Extraction](conference-papers/icdar05.pdf)
+19. [Improving Writer Identification by Means of Feature Selection and Extraction](conference-papers/icdar05.pdf)
     (ICDAR 2005)
-18. [Writer Identification Using an HMM-Based Handwriting Recognition System: To Normalize the Input or Not?](conference-papers/igs05.pdf)
+20. [Writer Identification Using an HMM-Based Handwriting Recognition System: To Normalize the Input or Not?](conference-papers/igs05.pdf)
     (IGS 2005)
-19. [Off-line Handwriting Identification Using HMM Based Recognizers](conference-papers/icpr04.pdf)
+21. [Off-line Handwriting Identification Using HMM Based Recognizers](conference-papers/icpr04.pdf)
     (ICPR 2004)
-20. [Using HMM Based Recognizers for Writer Identification and Verification](conference-papers/iwfhr04.pdf)
+22. [Using HMM Based Recognizers for Writer Identification and Verification](conference-papers/iwfhr04.pdf)
     (IWFHR 2004)
 
 ### Theses & Technical Reports
 
-21. Writer Identification and Verification] (PhD thesis, Universität Bern, 2008
+23. Writer Identification and Verification (PhD thesis, Universität Bern, 2008
     — published as book; see entry 3)
-22. [Enabling White-Box Reuse in a Pure Composition Language](theses/Schl03a.pdf)
+24. [Enabling White-Box Reuse in a Pure Composition Language](theses/Schl03a.pdf)
     (Master thesis, Universität Bern, December 2002)
-23. [Generic XMI Support for the MOOSE Reengineering Environment](theses/Schl01a.pdf)
+25. [Generic XMI Support for the MOOSE Reengineering Environment](theses/Schl01a.pdf)
     (Bachelor thesis, Universität Bern, June 2001)
 
 ### Presentations
 
-24. [IWFHR 2006 presentation slides](presentations/iwfhr06Slides.pdf)
+26. [IWFHR 2006 presentation slides](presentations/iwfhr06Slides.pdf)
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#aec6cf', 'primaryTextColor': '#eee', 'primaryBorderColor': '#eee', 'lineColor': '#999999', 'secondaryColor': '#b5ead7', 'tertiaryColor': '#ffdac1'}}}%%

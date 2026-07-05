@@ -70,6 +70,8 @@ If you're interested in connecting professionally, you can find me on
 
 ### Conference Papers
 
+- [Collinearity and Cluster Stability in Transport Economics: Evidence from Aviation and Rail](conference-papers/collinearity-transport-2026.pdf)
+  (2026)
 - [Ortogonality and Dimensionality in Airline Cluster Analysis using PCA and Kernel PCA](https://arxiv.org/abs/2606.08322)
   (S+SSPR 2026)
 - [Automatic Estimation of the Readability of Handwritten Text](conference-papers/eusipco08.pdf)

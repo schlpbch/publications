@@ -30,16 +30,15 @@ If you're interested in connecting professionally, you can find me on
 
 ### Preprints
 
-- [Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach](preprints/2602.18764v1.pdf)
+- [Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach](preprints/2603.24747v1.pdf)
   (arXiv, 2026) - Submitted to
   [EXPRESS/SOS 2026 (Combined Int. Workshop on Expressiveness in Concurrency and on Structural Operational Semantics)](https://expresssos.github.io/)
 - [The Convergence of SGD and MCP: A New Paradigm for Agentic Interoperability](preprints/2602.18764v2.pdf)
   (arXiv, 2026) - Submitting to
   [EMNLP 2026 (Conf. on Empirical Methods in Natural Language Processing)](https://2026.emnlp.org)
-
 - [Orthogonality and Dimensionality in Airline Cluster Analysis using PCA and
-  Kernel PCA](preprints/2605.7635667.pdf (arXiv, 2026) - Submitted to S+SSPR
-  2026
+  Kernel PCA](preprints/2606.08322v1.pdf)
+  (arXiv, 2026) - Accepted for publication to S+SSPR 2026
 
 ### Books
 
@@ -50,14 +49,14 @@ If you're interested in connecting professionally, you can find me on
 
 ### Journal Articles
 
+- [Collinearity and Cluster Stability in Transport Economics: Evidence from Aviation and Rail](journal-articles/collinearity-transport-2026.pdf)
+  (2026)
 - Automatic Gender Detection Using on-Line and Off-Line Information (Pattern
   Analysis and Applications, 14(1):87–92, 2011; DOI:
   [10.1007/s10044-010-0178-6](https://doi.org/10.1007/s10044-010-0178-6))
-
 - [Automatic Gender Detection – Combining On-Line and Off-Line Systems](journal-articles/ijprai2008.pdf)
   (International Journal of Pattern Recognition and Artificial
   Intelligence, 2008)
-
 - [A Writer Identification System for On-line Whiteboard Data](journal-articles/onlineWIJournal.pdf)
   (Pattern Recognition, 2006)
 - [A Writer Identification and Verification System Using HMM Based Recognizers](journal-articles/journalPaperFinal.pdf)
@@ -70,10 +69,6 @@ If you're interested in connecting professionally, you can find me on
 
 ### Conference Papers
 
-- [Collinearity and Cluster Stability in Transport Economics: Evidence from Aviation and Rail](conference-papers/collinearity-transport-2026.pdf)
-  (2026)
-- [Ortogonality and Dimensionality in Airline Cluster Analysis using PCA and Kernel PCA](https://arxiv.org/abs/2606.08322)
-  (S+SSPR 2026)
 - [Automatic Estimation of the Readability of Handwritten Text](conference-papers/eusipco08.pdf)
   (EUSIPCO 2008)
 - [Estimating the Readability of Handwritten Text – A Support Vector Regression Based Approach](conference-papers/icpr08.pdf)
@@ -114,7 +109,7 @@ If you're interested in connecting professionally, you can find me on
 
 ### Presentations
 
--[IWFHR 2006 presentation slides](presentations/iwfhr06Slides.pdf)
+- [IWFHR 2006 presentation slides](presentations/iwfhr06Slides.pdf)
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#aec6cf', 'primaryTextColor': '#eee', 'primaryBorderColor': '#eee', 'lineColor': '#999999', 'secondaryColor': '#b5ead7', 'tertiaryColor': '#ffdac1'}}}%%
